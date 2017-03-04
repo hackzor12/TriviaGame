@@ -1,2 +1,2 @@
 # TriviaGame
-My Second Udacity Project. A LIU trivia game in python.
+My Second Udacity Project. A LUI trivia game in python.
